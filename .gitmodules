@@ -1,0 +1,4 @@
+[submodule "subs/sub"]
+	path = subs/sub
+	url = git@github.com:toanld3/sub.git
+	branch = main
